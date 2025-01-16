@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### 현재 SSAFY 교육중...
+
+### 1년뒤에 어딘가에 있을거임~
 <!--
 **Bonjour-Kim/Bonjour-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
