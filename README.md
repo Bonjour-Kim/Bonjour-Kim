@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-### 현재 SSAFY 교육중...
+### 대전사람
 
-### 1년뒤에 어딘가에 있을거임~
+### 26년엔 어디에..
 <!--
 **Bonjour-Kim/Bonjour-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
